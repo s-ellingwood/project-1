@@ -8,6 +8,8 @@ All visuals made during this project can be found in the "visuals" folder.
 
 All data cleaning processes can be found in the data_cleaning.ipynb file. This file also created the clean dataframe and stored is as clean_data.csv in the "output" folder. This dataframe is used for our data exploration.
 
+The final presentation slides can be found in the presentation_slides.pdf file.
+
 Jupyter Notebooks used to answer our project questions:
 * sightings.ipynb contains all of the code and visuals made to answer our first question for this project: How often do sightings occur at certain times of day or in the year?
 * Sighting_vs_State_bar.ipynb contains all of the code and visuals made to answer our second question: Where do most sightings occur? Is it correlated to population size?
