@@ -4,7 +4,7 @@ The original dataset we used came from Kaggle (https://www.kaggle.com/datasets/r
 1. geoUSA.json - used to work on our heatmaps in Tableau.
 2. census_data_19702020.csv - a csv file with data on each state's indivdual population and the population of the entire USA gather from the 1970, 1980, 1990, 2000, 2010, and 2020 census reports.
 
-All visuals made during this project can be found in the visuals folder.
+All visuals made during this project can be found in the "visuals" folder.
 
 All data cleaning processes can be found in the data_cleaning.ipynb file. This file also created the clean dataframe and stored is as clean_data.csv in the "output" folder. This dataframe is used for our data exploration.
 
