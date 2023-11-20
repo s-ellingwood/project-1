@@ -10,18 +10,18 @@ The original dataset we used came from Kaggle (https://www.kaggle.com/datasets/r
 * The final presentation slides can be found in the presentation_slides.pdf file.
 * The analysis report write-up can be found in the analysis_report_writeup.pdf file.
 
-Jupyter Notebooks used to answer our project questions:
+#### Jupyter Notebooks used to answer our project questions:
 * sightings.ipynb contains all of the code and visuals made to answer our first question for this project: How often do sightings occur at certain times of day or in the year?
 * Sighting_vs_State_bar.ipynb contains all of the code and visuals made to answer our second question: Where do most sightings occur? Is it correlated to population size?
 * shapes_and_states.ipynb contains all of the code and visuals made to answer our third question: Are certain shapes sighted more in certain locations?
 * sightings_over_time-Chart.ipynb contains all of the code and visuals made to answer our fourth and final question: Have sightings increased or decreased over time?
 
-In the "output" folder, you will also find the following:
+#### In the "output" folder, you will also find the following:
 1. shape_stats.csv - created in the shapes_and_states.ipynb file for use in the heatmaps made in Tableau. It shows each state's abbreviation along with is most sighted, second most sighted, and third most sighted UFO shape.
 2. sightings_by_hundthous.csv - created in the Sighting_vs_State_bar.ipynb file for use in the heatmaps made in Tableau. It shows each state's abbreviation along with the total number of sightings in the state, the average population of the state over the 50 year time period, and the number of sightings per hundred thousand residents for each state.
 3. sightings_by_state.csv - also created in the Sighting_vs_State_bar.ipynb file for use in the heatmaps made in Tableau. This csv file contains only the state's abbreviation and the total number of sightings in the state.
 
-Finally, there is a file named sightings_vs_state_heatmaplink.txt file containing the link to the public page for the Tableau worksheets. There are five screenshots, one for each worksheet from Tableau, in the "visuals" folder as well:
+#### Finally, there is a file named sightings_vs_state_heatmaplink.txt file containing the link to the public page for the Tableau worksheets. There are five screenshots, one for each worksheet from Tableau, in the "visuals" folder as well:
 1. sightings_per_state_map.png - Worksheet 1
 2. sightings_per_hundthous_state_map.png - Worksheet 2
 3. most_common_shape_map.png - Worksheet 3
