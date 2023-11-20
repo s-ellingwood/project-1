@@ -1,6 +1,6 @@
 # Trends in UFO Sightings in the United States (1969-2019)
 
-The original dataset we used came from Kaggle (https://www.kaggle.com/datasets/rishidamarla/ufo-sightings-approx-100000/) and can be found in the "resources" folder as nuforc_reports.csv. There are two other files als contained in the "resources" folder:
+The original dataset we used came from Kaggle (https://www.kaggle.com/datasets/rishidamarla/ufo-sightings-approx-100000/) and can be found in the "resources" folder as nuforc_reports.csv. There are two other files also contained in the "resources" folder:
 1. geoUSA.json - used to work on our heatmaps in Tableau.
 2. census_data_19702020.csv - a csv file with data on each state's indivdual population and the population of the entire USA gather from the 1970, 1980, 1990, 2000, 2010, and 2020 census reports.
 
